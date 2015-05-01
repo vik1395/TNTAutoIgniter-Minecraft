@@ -1,0 +1,6 @@
+name: TNTAutoIgniter
+version: 1.3
+author: Vik1395
+description: A plugin that Ignites TNT automatically as soon as it is placed.
+
+main: me.vik1395.TNTIgniter.Main
